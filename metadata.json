@@ -1,0 +1,5 @@
+{
+  "name": "QuickChat P2P Sim",
+  "description": "Una aplicación de chat en tiempo real que utiliza BroadcastChannel para comunicación entre pestañas, simulando un entorno P2P con códigos de sala aleatorios.",
+  "requestFramePermissions": []
+}
